@@ -1,0 +1,13 @@
+.cov h1{ 
+ background-color:transparent;
+ color: rgb(241, 217, 0);
+ text-transform: uppercase;
+ font-size: 4vw;
+ text-align: center;
+}
+.cov{
+    background-color:rgb(196, 10, 10);
+    padding: 0;
+    margin: 30px;
+    
+}
